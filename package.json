@@ -18,9 +18,9 @@
   },
   "homepage": "https://github.com/dallincrane/mini-birds-mongojs#readme",
   "dependencies": {
-    "body-parser": "^1.13.3",
+    "body-parser": "^1.15.0",
     "cors": "^2.7.1",
-    "express": "^4.13.3",
+    "express": "^4.13.4",
     "mongojs": "^1.2.1"
   }
 }
